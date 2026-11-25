@@ -30,7 +30,7 @@ l build a complete SaaS starter kit with sensible defaults since
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/saasforge.git
+git clone https://github.com/monmoymondol/saasforge.git
 cd saasforge
 
 # Install dependencies
